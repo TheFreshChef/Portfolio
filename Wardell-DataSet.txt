@@ -1,0 +1,85 @@
+FNS,OpTic Gaming,North America,Breach,162.8,0.87,108.1
+Marved,OpTic Gaming,North America,Brimstone,206.6,1.12,135.3
+yay,OpTic Gaming,North America,Chamber,252.4,1.36,158.9
+crashies,OpTic Gaming,North America,Sova,202.9,1.06,139.4
+Victor,OpTic Gaming,North America,KAY/O,198.25,0.91,128.1
+valyn,The Guard,North America,Omen,189,0.98,123.7
+trent,The Guard,North America,Sova,208.3,1.2,151
+JonahP,The Guard,North America,Sage,230.2,1.09,145.2
+neT,The Guard,North America,Chamber,204.7,1.05,128.2
+Sayaplayer,The Guard,North America,Jett,253.6,1.43,156.8
+vanity,Cloud9,North America,Omen,176.7,0.92,103.3
+Xeppaa,Cloud9,North America,KAY/O,195.6,0.9,129.5
+mitch,Cloud9,North America,Killjoy,195.6,1.14,127.8
+xeta,Cloud9,North America,Breach,172.4,1,112.4
+leaf,Cloud9,North America,Jett,289.8,1.34,175.4
+dephh,XSET,North America,Astra,196,1.05,127.3
+zekken,XSET,North America,Raze,236.7,1.24,149
+BcJ,XSET,North America,Sova,177,0.88,120.4
+Cryocells,XSET,North America,Chamber,279.5,1.66,167.9
+AYRIN,XSET,North America,Viper,173.2,0.96,113.6
+ShahZaM,Sentinels,North America,Sova,205.6,1.2,139.9
+TenZ,Sentinels,North America,Jett,206.6,0.98,141.8
+dapr,Sentinels,North America,Killjoy,201.6,0.86,138.2
+Kanpeki,Sentinels,North America,KAY/O,237,1.3,150.4
+SicK,Sentinels,North America,KAY/O,180.8,0.9,135.2
+SUYGETSU,FunPlus Phoenix,Europe,Killjoy,160.1,0.87,116
+ANGE1,FunPlus Phoenix,Europe,Jett,247,0.88,147.8
+ardiis,FunPlus Phoenix,Europe,Jett,227.1,1.05,147.1
+Zyppan,FunPlus Phoenix,Europe,KAY/O,188.3,0.87,125
+Shao,FunPlus Phoenix,Europe,Sova,194.9,1.24,132
+hoody,G2 Esports,Europe,Sage,217.7,1.07,141.2
+AvovA,G2 Esports,Europe,Omen,172.8,0.85,111.9
+nukkye,G2 Esports,Europe,Raze,248.8,1.08,167.7
+Meddo,G2 Esports,Europe,Killjoy,216.8,1.4,147.9
+Mixwell,G2 Esports,Europe,Chamber,221.7,1.11,142.2
+Jamppi,Team Liquid,Europe,Breach,202.4,1.07,129
+soulcas,Team Liquid,Europe,Raze,224.4,0.95,152.1
+L1NK,Team Liquid,Europe,Omen,164.9,1.01,110.4
+Nivera,Team Liquid,Europe,Chamber,238.1,1.53,147
+ScreaM,Team Liquid,Europe,Jett,280.7,1.33,176
+Redgar,M3 Champions,Europe,KAY/O,256,1.33,153.2
+d3ffo,M3 Champions,Europe,Jett,200.7,1.11,126.3
+Chronicle,M3 Champions,Europe,Chamber,253.7,1.27,157.1
+nAts,M3 Champions,Europe,Viper,215.8,1.24,133.7
+sheydos,M3 Champions,Europe,Sage,272.4,1.9,169.4
+zeek,Acend,Europe,KAY/O,180.3,0.79,116.9
+cNed,Acend,Europe,Jett,253.7,1.15,162
+starxo,Acend,Europe,Skye,157.3,0.71,95.9
+vakk,Acend,Europe,Jett,281.3,1.66,180.6
+MONSTEERR,Acend,Europe,Killjoy,155.7,0.78,109.4
+Benkai,Paper Rex,Asia-Pacific,Cypher,205.8,1.15,133.7
+f0rsakeN,Paper Rex,Asia-Pacific,Jett,252.5,1.23,164
+d4v41,Paper Rex,Asia-Pacific,Skye,168.5,0.88,113.2
+mindfreak,Paper Rex,Asia-Pacific,Omen,157.4,0.87,102.6
+Jinggg,Paper Rex,Asia-Pacific,Raze,259.7,1.06,169.7
+foxz,XERXIA Esports,Asia-Pacific,Sova,211.4,1.03,148.8
+sScary,XERXIA Esports,Asia-Pacific,Astra,248.2,1.49,159.7
+Sushiboys,XERXIA Esports,Asia-Pacific,Killjoy,194.3,1,133.1
+Surf,XERXIA Esports,Asia-Pacific,Jett,224.9,1.12,139.2
+Crws,XERXIA Esports,Asia-Pacific,Breach,184.5,0.9,123.6
+stax,DRX,Asia-Pacific,Skye,193.2,1.11,129.5
+MaKo,DRX,Asia-Pacific,Viper,237.5,1.23,150.7
+Rb,DRX,Asia-Pacific,Jett,226.9,1.15,137.9
+Zest,DRX,Asia-Pacific,Sova,180.1,1.07,121.7
+BuZz,DRX,Asia-Pacific,Chamber,180.1,1.07,121.7
+Laz,Zeta Division,Asia-Pacific,Chamber,253.4,1.3,159.3
+Dep,Zeta Division,Asia-Pacific,Jett,213.1,1.07,136.7
+Crow,Zeta Division,Asia-Pacific,Breach,152.9,0.83,100.8
+SugarZ3ro,Zeta Division,Asia-Pacific,Astra,220.4,1.22,144
+TENNN,Zeta Division,Asia-Pacific,Raze,254.5,1.13,166.5
+Sacy,LOUD,Brazil/LA,Sova,213.6,1.24,147.9
+Aspas,LOUD,Brazil/LA,Jett,252.8,1.44,156.9
+saadhak,LOUD,Brazil/LA,KAY/O,216.3,1.07,133.5
+pancada,LOUD,Brazil/LA,Omen,194,1.14,124.4
+Less,LOUD,Brazil/LA,Killjoy,209.4,1.13,137.9
+xand,NIP,Brazil/LA,Jett,231.5,1.06,140.7
+bnj,NIP,Brazil/LA,Omen,171.1,1.03,109.6
+bezn1,NIP,Brazil/LA,Cypher,205.6,1.07,131.4
+cauanzin,NIP,Brazil/LA,Sova,209.5,1.01,142.8
+Jonn,NIP,Brazil/LA,Reyna,195.5,0.84,131.3
+delz1k,KRU,Brazil/LA,Omen,207.1,0.98,130.3
+NagZ,KRU,Brazil/LA,Jett,200.6,1.08,129.3
+Klaus,KRU,Brazil/LA,Cypher,170.9,0.95,107.8
+Mazino,KRU,Brazil/LA,Sova,172.6,0.83,124.5
+Keznit,KRU,Brazil/LA,Raze,290.8,1.35,185.2
